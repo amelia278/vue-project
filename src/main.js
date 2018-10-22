@@ -1,19 +1,19 @@
 'use strict';
-
 import Vue from 'vue';
-
 import VueRouter from 'vue-router';
 //install plugin
 Vue.use(VueRouter);
 
 import './assets/css/global.css';
 import Mint from 'mint-ui';
+Vue.use(Mint);
 import 'mint-ui/lib/style.css';
 
-Vue.use(Mint);
 //global component
 import NavBar from './components/common/navBar.vue';
+import FootBar from './components/common/footerBar.vue';
 Vue.component('nav-bar',NavBar);
+Vue.component('foot-bar',FootBar);
 
 //import local 
 import App from './app.vue';

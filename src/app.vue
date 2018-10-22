@@ -12,9 +12,9 @@
         <!-- <nav-bar></nav-bar> -->
         <router-view></router-view>
         <!--footer-->
-        <router-link :to="{name:'home'}">
-            <!--<mt-tabbar></mt-tabbar>-->
-        </router-link>
+        <!-- <router-link :to="{name:'home'}">
+        </router-link> -->
+        <foot-bar></foot-bar>
     </div>
 </template>
 <script>
