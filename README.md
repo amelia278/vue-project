@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 基于vue的新闻客户端系统
 
 You can use the [editor on GitHub](https://github.com/amelia278/vueInit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
