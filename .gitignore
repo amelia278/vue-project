@@ -1,0 +1,11 @@
+
+node_modules/webpack/node_modules/has-flag/license
+*.js
+*.png
+*.yml
+*.json
+*.md
+*.txt
+*.map
+*.hbs
+*.coffee
