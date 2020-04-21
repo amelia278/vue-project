@@ -1,5 +1,6 @@
 
 node_modules/webpack/node_modules/has-flag/license
+node_modules
 *.js
 *.png
 *.yml
